@@ -6,7 +6,7 @@ This is my solution to the **QR Code Component** challenge from Frontend Mentor.
 
 ## 📸 Screenshot
 
-![Project Screenshot] **./Project_screenshot.png**
+![Project Screenshot](Screenshot.png)
 
 ## 🔗 Links
 
